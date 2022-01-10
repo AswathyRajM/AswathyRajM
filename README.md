@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning NextJS And these are the things i do during my free time.
 - 💞️ I’m looking to collaborate on JS Stack
 - 📫 How to reach me - email me aswathyraj767@gmail.com
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/AswathyRajM/count.svg)
 <!---
 AswathyRajM/AswathyRajM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
