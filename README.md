@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on JS Stack
 - 📫 How to reach me - email me aswathyraj767@gmail.com
 
-Visiters
+Visiters  
 ![Visitor Count](https://profile-counter.glitch.me/AswathyRajM/count.svg)
 <!---
 AswathyRajM/AswathyRajM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
