@@ -8,8 +8,6 @@ Visiters
   
 ![Visitor Count](https://profile-counter.glitch.me/AswathyRajM/count.svg)
 
-![alt text](image.jpg)
-
   
    
  ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
