@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning NextJS And these are the things i do during my free time.
 - 💞️ I’m looking to collaborate on JS Stack
-- 📫 How to reach me - email me aswathyraj767@gmail.com
+- 📫 Contact me aswathyraj767@gmail.com
 
 Visiters  
   
