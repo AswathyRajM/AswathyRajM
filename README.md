@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AswathyRajM, Working as a fullstack developer on MERN stack and other technologies
+- 👋 Hi, I’m @AswathyRajM, Working as a fullstack JavaScript developer 
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning NextJS And these are the things i do during my free time.
+<!-- - 🌱 I’m currently learning NextJS And these are the things i do during my free time. -->
 - 📫 Contact me aswathyraj767@gmail.com
 
 Visiters  
